@@ -5,6 +5,9 @@ kakaoapikey.txt
 roadapikey.txt
 chromedirver.exe
 mysql.json
+labeledTrainData.tsv
+model/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
